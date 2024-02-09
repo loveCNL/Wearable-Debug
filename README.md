@@ -1,6 +1,7 @@
 # Wearable Debug
 
-Xposed插件启用Mi Fitness第三方小程序安装卸载。激活插件后会将Profile->About this app->User Agreemnt页面替换为隐藏的小程序安装界面。
+Lsposed插件启用Mi Fitness第三方小程序安装卸载。激活插件后会将Profile->About this app->User Agreemnt(我的->关于->用户协议)页面替换为隐藏的小程序安装界面。
+click to input package name -> com.application.watch.demo
 
 ## 注意
 
